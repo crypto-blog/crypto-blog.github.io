@@ -9,7 +9,7 @@
 
 telegram:
  name: "Telegram"
- urlTemplate: "https://www.telegram.com/{value}"
+ urlTemplate: "https://web.telegram.org/{value}"
  icon: "fab fa-telegram"
 
 facebook:
