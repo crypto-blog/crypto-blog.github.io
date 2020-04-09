@@ -20,6 +20,7 @@ description: Tricky crypto stuff made easier
 
 # List of links in the navigation bar
 navbar-links:
+  Support me with a coffee: "support-me-with-a-coffee"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
