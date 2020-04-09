@@ -67,11 +67,13 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
+  
   rss: true
- # facebook: deanattali
-  github: crypto-blog
-  twitter: leap_space
-  telegram: https://t.me/cryptodesknews
+  
+#  facebook: deanattali
+   github: crypto-blog
+   twitter: leap_space
+   telegram: https://t.me/cryptodesknews
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -91,6 +93,7 @@ share-links-active:
   twitter: true
   telegram: true
   github: true
+
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
