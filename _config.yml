@@ -41,10 +41,10 @@ navbar-links:
 
 navbar-col: "#36313e"
 navbar-text-col: "#ffffff"
-navbar-children-col: "#3631ff"
+navbar-children-col: "#ff313e"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#3631ff"
 footer-col: "#36313e"
 footer-text-col: "#ffffff"
 footer-link-col: "#ff313e"
