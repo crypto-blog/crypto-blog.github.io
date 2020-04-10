@@ -15,4 +15,4 @@ published: true
 ***
 
 **Pay Pal**
-[![paypal-icon.png]({{site.baseurl}}/img/paypal-icon.png)](https://paypal.me/TheGabSa){: .center-block :}
+[![Screenshot_2020-04-06 Coinbase.png]({{site.baseurl}}/img/Screenshot_2020-04-06%20Coinbase.png)](https://paypal.me/TheGabSa){: .center-block :}
