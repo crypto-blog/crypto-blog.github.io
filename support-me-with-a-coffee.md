@@ -18,3 +18,11 @@ vhyYXvvrFywK7KWH4
 **PayPal**
 
 [![PayPal-Button.png]({{site.baseurl}}/img/PayPal-Button.png)](https://paypal.me/TheGabSa){: .center-block :}
+
+***
+### Notification
+
+{: .box-note}
+**Note:** don't you have any idea how to send or receive Bitcoin?
+Read my article about it!.
+
