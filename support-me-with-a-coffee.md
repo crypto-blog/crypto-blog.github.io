@@ -6,4 +6,17 @@ tags:
   - thank you
 published: true
 ---
+**Bitcoin Address:**
+
 ![Screenshot_2020-04-06 Coinbase.png]({{site.baseurl}}/img/Screenshot_2020-04-06%20Coinbase.png){: .center-block :}
+
+**38bgh5aohay4RP5GyvhyYXvvrFywK7KWH4**
+
+***
+
+**Pay Pal**
+
+[![button]({{site.baseurl}}/img/paypal-icon.png)](https://www.paypal.me/TheGabSa){: .center-block :}
+
+
+
