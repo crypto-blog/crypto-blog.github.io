@@ -111,7 +111,7 @@ url-pretty: "Crypto-Blog.com"  # eg. "deanattali.com/beautiful-jekyll"
 "
 
 # Fill in your Google Analytics ID to track your website using GA
- google_analytics: "UA-162814431-3"
+ #google_analytics: "UA-162814431-3"
 
 # Google Tag Manager ID
 #gtm: ""
