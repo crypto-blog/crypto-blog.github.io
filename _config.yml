@@ -20,12 +20,12 @@ description: Tricky crypto stuff made easier
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "https://crypto-blog.github.io"
+  All Posts: "allposts"
+  Crypto Charts: "cryptocharts.html"
   Support me with a coffee: "support-me-with-a-coffee"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+ 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
