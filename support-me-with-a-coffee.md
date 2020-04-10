@@ -6,13 +6,14 @@ tags:
   - thank you
 published: true
 ---
-**Bitcoin Address:**
+**Bitcoin Address**
 
 ![Screenshot_2020-04-06 Coinbase.png]({{site.baseurl}}/img/Screenshot_2020-04-06%20Coinbase.png){: .center-block :}
 
-__38bgh5aohay4RP5GyvhyYXvvrFywK7KWH4
+38bgh5aohay4RP5Gy
+vhyYXvvrFywK7KWH4
 
-
+***
 
 **PayPal**
 
