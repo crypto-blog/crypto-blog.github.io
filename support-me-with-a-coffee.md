@@ -16,7 +16,7 @@ published: true
 
 **Pay Pal**
 
-[![button]({{site.baseurl}}/img/paypal-icon.png)](https://www.paypal.me/TheGabSa){: .center-block :}
+![paypal-icon.png]({{site.baseurl}}/img/paypal-icon.png)](https://www.paypal.me/TheGabSa){: .center-block :}
 
 
 
