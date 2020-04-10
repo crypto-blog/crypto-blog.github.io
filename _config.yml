@@ -22,7 +22,7 @@ description: Tricky crypto stuff made easier
 navbar-links:
   Home: "https://crypto-blog.github.io"
   All Posts: "allposts"
-  Crypto Charts: "cryptocharts.html"
+  Crypto Charts: "cryptocharts"
   Support me with a coffee: "support-me-with-a-coffee"
   About Me: "aboutme"
  
