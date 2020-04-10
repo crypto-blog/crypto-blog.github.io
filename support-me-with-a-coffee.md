@@ -10,7 +10,7 @@ published: true
 
 ![Screenshot_2020-04-06 Coinbase.png]({{site.baseurl}}/img/Screenshot_2020-04-06%20Coinbase.png){: .center-block :}
 
-**38bgh5aohay4RP5GyvhyYXvvrFywK7KWH4**
+38bgh5aohay4RP5GyvhyYXvvrFywK7KWH4
 
 ***
 
