@@ -15,8 +15,4 @@ published: true
 ***
 
 **Pay Pal**
-
-
-
-
-
+[![paypal-icon.png]({{site.baseurl}}/img/paypal-icon.png)](https://paypal.me/TheGabSa){: .center-block :}
